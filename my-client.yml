@@ -1,2 +1,6 @@
 my-config:
   appName: my-app1
+ spring:
+  cloud:
+    config:
+        loaded: true

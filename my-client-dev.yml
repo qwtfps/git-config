@@ -1,2 +1,6 @@
 my-config:
   appName: my-app4sdfsdjk
+spring:
+  cloud:
+    config:
+        loaded: true
